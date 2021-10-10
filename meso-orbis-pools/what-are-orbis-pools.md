@@ -4,7 +4,7 @@ description: The unlimited reward pool for MESO token holders by the Meso Financ
 
 # What are Orbis Pools?
 
-The Orbis Pools is our unique approach for a dividend pool where it is running infinitely and supplying of USDC indefinitely as long as the project earns fees from its product and services. **All fees earned from the different products and services we will be building will be redirected to the Orbis Pools.**
+The Orbis Pools is our unique approach for a dividend pool where it is running infinitely and supplying of USDC indefinitely as long as the project earns fees from its product and services. **All the different products and services of Meso Finance will be redirecting a portion of the fees to the Orbis Pools.**
 
 We, the team, treat Meso Finance as a company where we have stakeholders that invested in the platform which are entitled for a share in the revenue generating activities as well. As such, we built this pool to indefinitely reward fMESO holders with a portion of the project's income.
 
@@ -32,7 +32,7 @@ As of the moment, there will be **none**, as this defeats the our goal towards p
 
 ### What other products will be available that will generate income for the platform?
 
-As of the moment, our initial product is the **yield farm** which is meant to distribute fMESO to interested investors taking part in the farming activities.
+As of the moment, our initial product is the **yield farm** which is meant to distribute fMESO to interested investors taking part in the farming / token trading activities.
 
 Next up will be the **autocompounding vaults**, which charges a service fee to users that would like to utilize the platform. It will be splitting the service fee into portions where it transfers a share to the Orbis Pools as USDC. The higher the utilization of the autocompounding vaults, the better the income overall of fMESO holders.
 
