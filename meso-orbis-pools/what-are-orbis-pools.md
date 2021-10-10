@@ -17,8 +17,7 @@ We, the team, treat Meso Finance as a company where we have stakeholders that in
 The pools that we will make available are the following and will be given its corresponding weight:
 
 * fMESO earn USDC
-* fMESO - FTM earn USDC
-* fMESO - USDC earn USDC
+* Coming soon...
 
 ### How can I maximize my earnings on the platform?
 

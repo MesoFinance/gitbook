@@ -24,8 +24,6 @@
 
 ## Community Links <a href="links" id="links"></a>
 
-***
-
 * [Need help to build your project?](need-help-to-build-your-project.md)
 * [Developer Addresses](developer-addresses.md)
 * [Telegram](https://t.me/mesofinance)
