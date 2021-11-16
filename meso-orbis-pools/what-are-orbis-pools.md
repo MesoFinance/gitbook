@@ -6,9 +6,9 @@ description: The unlimited reward pool for MESO token holders by the Meso Financ
 
 The Orbis Pools is our unique approach for a dividend pool where it is running infinitely and supplying of USDC indefinitely as long as the project earns fees from its product and services. **All the different products and services of Meso Finance will be redirecting a portion of the fees to the Orbis Pools.**
 
-We, the team, treat Meso Finance as a company where we have stakeholders that invested in the platform which are entitled for a share in the revenue generating activities as well. As such, we built this pool to indefinitely reward fMESO holders with a portion of the project's income.
+We, the team, treat Meso Finance as a company where we have stakeholders that invested in the platform which are entitled for a share in the revenue generating activities as well. As such, we built this pool to indefinitely reward fMESO holders with a portion of the project's income at certain **periods that will be announced over at our official social media**.
 
-* To be eligible for the Orbis Pools, users must have bought our native token, fMESO, and stake in the Orbis Pools that are available.
+* To be eligible for the Orbis Pools, users must have bought the native token, fMESO, and stake in the Orbis Pools that are available.
 * fMESO is available over at [SpookySwap](https://spookyswap.finance/swap?outputCurrency=0x4d9361a86d038c8ada3db2457608e2275b3e08d4) for buying.
 * USDC rewards are distributed proportionately from a start timestamp to an end timestamp. So the longer you are staked, the more USDC you can earn over time.
 

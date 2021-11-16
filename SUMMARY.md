@@ -2,6 +2,7 @@
 
 * [Introduction to Meso Finance](README.md)
 * [Protocol Roadmap](project-roadmap.md)
+* [Ongoing Services](ongoing-services.md)
 
 ## Meso Farms
 

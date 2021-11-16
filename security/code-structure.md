@@ -4,7 +4,7 @@ description: Verify with our deployed contracts
 
 # Farm Security Measures
 
-## Security Measures taken in the fMESO token contract:
+### Security Measures taken in the fMESO token contract:
 
 * Only the masterchef can mint succeeding tokens aside from the pre-minted ones for initial liquidity:
 
@@ -21,7 +21,7 @@ description: Verify with our deployed contracts
     }
 ```
 
-## Security Measures taken in the Masterchef contract:
+### Security Measures taken in the Masterchef contract:
 
 * fMeso address is made immutable:
 

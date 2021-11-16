@@ -10,7 +10,7 @@ We do contract works on our free time to build up funds for our future projects 
 
 If you have an idea in mind, let us know and we'll build it for you! If you want to fork a certain project and would like to modify it but do not possess the skills to do so, we are here for you.
 
-Here is a list of our DeFi project expertise, but is not limited to the following:
+Here is a list of our DeFi project expertise, but is **not limited** to the following:
 
 * Yield Farms
 * Auto-compounding Vaults

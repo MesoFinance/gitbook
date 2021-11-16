@@ -4,6 +4,12 @@ description: Pool IDs for the Emergency Withdrawal function
 
 # Emergency Withdraw
 
+### Cronos Mainnet Pools IDs:
+
+* TBA
+
+### Fantom Mainnet Pools IDs:
+
 #### Single Asset Pools:
 
 * MESO PID : 0
