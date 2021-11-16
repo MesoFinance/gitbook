@@ -27,6 +27,10 @@
 * [Emergency Withdraw](security/emergency-withdraw.md)
 * [Contracts](security/contracts.md)
 
+## Bridging
+
+* [How to go to another chain?](bridging/how-to-go-to-another-chain.md)
+
 ## Community Links <a href="links" id="links"></a>
 
 * [Need help to build your project?](need-help-to-build-your-project.md)
