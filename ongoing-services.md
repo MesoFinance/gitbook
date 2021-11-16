@@ -12,5 +12,6 @@ description: >-
 2. **Fantom Opera Mainnet**
    * Yield farming
    * Auto-compounding vaults
+   * Orbis Pools
    * Lending protocol (Coming Soon!)
 3. TBA
