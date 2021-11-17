@@ -16,7 +16,7 @@ description: Meso Finance's tokens and corresponding fees
 * **Transfer tax, anti-whale, and reflection:** None
 * **Developer share: **10% of the total token supply
   * Purpose of the developer share is for additional swap pair/bridge liquidity, marketing expenses, or burning depending on the situation.
-* **Emission Start:** TBA
+* **Emission Start:** 1637308800
 
 ### Fantom Token Information:
 
