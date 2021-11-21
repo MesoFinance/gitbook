@@ -6,8 +6,8 @@ description: Contract addresses for the Meso Finance protocol
 
 ### Cronos Mainnet
 
-* cMESO Token: [0xDad98c36bC40d562Ec3DD557B0f12519278de4De](https://cronos.crypto.org/explorer/address/0xDad98c36bC40d562Ec3DD557B0f12519278de4De/transactions)
-* MasterChef: [0x31488724218c311A1100c03DfeFb347677874cE8](https://cronos.crypto.org/explorer/address/0x31488724218c311A1100c03DfeFb347677874cE8/transactions)
+* croMESO Token: [0x70b9E10223fE7AB309782C7B41F8c835E1FCC0f2](https://cronos.crypto.org/explorer/address/0x70b9E10223fE7AB309782C7B41F8c835E1FCC0f2/read-contract)
+* MasterChef: [0x1859d35585073c7cD7cbd2D668ff592ebF6ad43e](https://cronos.crypto.org/explorer/address/0x1859d35585073c7cD7cbd2D668ff592ebF6ad43e/read-contract)
 * TimeLock: [0xC44C5b1Eee3b91E26122D04AF8f084260b1b7aF6](https://cronos.crypto.org/explorer/address/0xC44C5b1Eee3b91E26122D04AF8f084260b1b7aF6/transactions)
 * Liquidity Lock: TBA
 

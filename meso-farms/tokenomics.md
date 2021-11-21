@@ -6,17 +6,17 @@ description: Meso Finance's tokens and corresponding fees
 
 ### Cronos Token Information:
 
-* **Contract Address: **0xDad98c36bC40d562Ec3DD557B0f12519278de4De
-* **Symbol: **cMESO
+* **Contract Address: **0x70b9E10223fE7AB309782C7B41F8c835E1FCC0f2
+* **Symbol: **croMESO
 * **Token name:** CRO Meso
-* **Pre-mint: **100 cMESO
-* **Initial Liquidity:** 100 cMeso : 12,400 CRO (Liquidity to be locked)
-* **Max Supply:** 10,000 cMESO
-* **Emissions:** 0.001 MESO per second (86.4 cMESO per day).
+* **Pre-mint: **100 croMESO
+* **Initial Liquidity:** [Put back the liquidity after token changed](https://cronos.crypto.org/explorer/tx/0x4bd4e7ff57db11d12df831a8d242fc6a7bcadb7e93d2ad1dbd75cdf5e420fad0/token-transfers)
+* **Max Supply:** 10,000 croMESO
+* **Emissions:** 0.001 MESO per second (86.4 croMESO per day).
 * **Transfer tax, anti-whale, and reflection:** None
 * **Developer share: **10% of the total token supply
   * Purpose of the developer share is for additional swap pair/bridge liquidity, marketing expenses, or burning depending on the situation.
-* **Emission Start:** 1637308800
+* **Emission Start:** 1637481600
 
 ### Fantom Token Information:
 
