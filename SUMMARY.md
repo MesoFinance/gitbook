@@ -18,7 +18,12 @@
 
 ## MAPLE BANK
 
-* [What is the Maple Bank?](maple-bank/what-is-the-maple-bank.md)
+* [What is the Maple Bank?](maple-bank/what-is-the-maple-bank/README.md)
+  * [How to Borrow MUSD](maple-bank/what-is-the-maple-bank/how-to-borrow-musd.md)
+  * [Stablecoin Economics](maple-bank/what-is-the-maple-bank/stablecoin-economics.md)
+  * [Accepted Collaterals](maple-bank/what-is-the-maple-bank/accepted-collaterals.md)
+  * [Protocol Fees](maple-bank/what-is-the-maple-bank/protocol-fees.md)
+  * [Liquidations](maple-bank/what-is-the-maple-bank/liquidations.md)
 
 ## Security
 
@@ -31,7 +36,7 @@
 
 * [How to go to another chain?](bridging/how-to-go-to-another-chain.md)
 
-## Community Links <a href="links" id="links"></a>
+## Community Links <a href="#links" id="links"></a>
 
 * [Need help to build your project?](need-help-to-build-your-project.md)
 * [Developer Addresses](developer-addresses.md)

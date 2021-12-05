@@ -6,29 +6,29 @@ description: Meso Finance's tokens and corresponding fees
 
 ### Cronos Token Information:
 
-* **Contract Address: **0x70b9E10223fE7AB309782C7B41F8c835E1FCC0f2
-* **Symbol: **croMESO
+* **Contract Address:** 0x70b9E10223fE7AB309782C7B41F8c835E1FCC0f2
+* **Symbol:** croMESO
 * **Token name:** CRO Meso
-* **Pre-mint: **100 croMESO
+* **Pre-mint:** 100 croMESO
 * **Initial Liquidity:** [Put back the liquidity after token changed](https://cronos.crypto.org/explorer/tx/0x4bd4e7ff57db11d12df831a8d242fc6a7bcadb7e93d2ad1dbd75cdf5e420fad0/token-transfers)
 * **Max Supply:** 10,000 croMESO
 * **Emissions:** 0.001 MESO per second (86.4 croMESO per day).
 * **Transfer tax, anti-whale, and reflection:** None
-* **Developer share: **10% of the total token supply
+* **Developer share:** 10% of the total token supply
   * Purpose of the developer share is for additional swap pair/bridge liquidity, marketing expenses, or burning depending on the situation.
 * **Emission Start:** 1637481600
 
 ### Fantom Token Information:
 
-* **Contract Address: **0x4D9361A86D038C8adA3db2457608e2275B3E08d4
-* **Symbol: **MESO
+* **Contract Address:** 0x4D9361A86D038C8adA3db2457608e2275B3E08d4
+* **Symbol:** MESO
 * **Token name:** FTM-Meso
-* **Pre-mint: **50 MESO
+* **Pre-mint:** 50 MESO
 * **Initial Liquidity:** 10 Meso : 500 FTM (Liquidity Locked)
 * **Max Supply:** 10,000 MESO
 * **Emissions:** 0.001 MESO per block (approx. 86.4 MESO per day).
 * **Transfer tax, anti-whale, and reflection:** None
-* **Developer share: **10% of the total token supply
+* **Developer share:** 10% of the total token supply
   * Purpose of the developer share is for additional swap pair/bridge liquidity, marketing expenses, or burning depending on the situation.
 * **Emission Start:** Block [18181818](https://ftmscan.com/block/countdown/18181818)
 
