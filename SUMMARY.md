@@ -23,7 +23,6 @@
   * [Stablecoin Economics](maple-bank/what-is-the-maple-bank/stablecoin-economics.md)
   * [Accepted Collaterals](maple-bank/what-is-the-maple-bank/accepted-collaterals.md)
   * [Protocol Fees](maple-bank/what-is-the-maple-bank/protocol-fees.md)
-  * [Liquidations](maple-bank/what-is-the-maple-bank/liquidations.md)
 
 ## Security
 
