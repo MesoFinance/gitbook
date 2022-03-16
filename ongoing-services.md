@@ -7,11 +7,9 @@ description: >-
 # Ongoing Services
 
 1. **Cronos Mainnet**
-   * Yield farming
    * Auto-compounding vaults
 2. **Fantom Opera Mainnet**
-   * Yield farming
    * Auto-compounding vaults
    * Orbis Pools
-   * Lending protocol (Coming Soon!)
+   * Lending protocol
 3. TBA
