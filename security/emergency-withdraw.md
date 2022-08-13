@@ -6,7 +6,24 @@ description: Pool IDs for the Emergency Withdrawal function
 
 ### Cronos Mainnet Pools IDs:
 
-* TBA
+* PID 0 croMeso&#x20;
+* PID 1 wCro&#x20;
+* PID 2 croMeso-wCro&#x20;
+* PID 3 Wbtc&#x20;
+* PID 4 Weth&#x20;
+* PID 5 USDT&#x20;
+* PID 6 USDC&#x20;
+* PID 7 BUSD&#x20;
+* PID 8 MIM&#x20;
+* PID 9 DAI&#x20;
+* PID 10 VVS&#x20;
+* PID 11 CRONA&#x20;
+* PID 12 USDT-USDC(CRONA)&#x20;
+* PID 13 USDT-BUSD(CRONA)&#x20;
+* PID 14 wCro-Weth(VVS)&#x20;
+* PID 15 wCro-Wbtc(VVS)&#x20;
+* PID 16 FTM&#x20;
+* PID 17 AVAX
 
 ### Fantom Mainnet Pools IDs:
 
